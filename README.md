@@ -4,5 +4,10 @@
   <h5><em>모두를 만족시키는 웹을 만들려고 끊임없이 노력하고 있습니다</em></h5>
 <hr/>
 <h2>📚  Skills</h2>
-  <h3>Language : <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></h3>
+  <h3>Language : 
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+    </h3>
   
